@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Mathis Ivars - mthv.rs</title>
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="Mathis Ivars. Photo, vidéo, communication.">
+
+		<style>
+			html,
+body {
+  -webkit-text-size-adjust: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.mthvrsgrid {
+  margin: 0 auto 2rem auto;
+  padding: 0 2rem 2rem 0;
+  width: 100%;
+  max-width: 1024px;
+  box-sizing: border-box;
+}
+.mthvrs1,
+.mthvrs2,
+.mthvrs3,
+.mthvrs4,
+.mthvrs5,
+.mthvrs6,
+.mthvrs7,
+.mthvrs8,
+.mthvrs9,
+.mthvrs10,
+.mthvrs11,
+.mthvrs12 {
+  box-sizing: border-box;
+  min-height: 1rem;
+  margin: 2rem 0 0 0;
+  padding: 0 0 0 2rem;
+  float: left;
+  display: block;
+}
+.mthvrs1.new_row,
+.mthvrs2.new_row,
+.mthvrs3.new_row,
+.mthvrs4.new_row,
+.mthvrs5.new_row,
+.mthvrs6.new_row,
+.mthvrs7.new_row,
+.mthvrs8.new_row,
+.mthvrs9.new_row,
+.mthvrs10.new_row,
+.mthvrs11.new_row,
+.mthvrs12.new_row {
+  clear: both;
+}
+.mthvrs1 {
+  width: 8.333333%;
+}
+.mthvrs2 {
+  width: 16.666666%;
+}
+.mthvrs3 {
+  width: 25%;
+}
+.mthvrs4 {
+  width: 33.333333%;
+}
+.mthvrs5 {
+  width: 41.666666%;
+}
+.mthvrs6 {
+  width: 50%;
+}
+.mthvrs7 {
+  width: 58.333333%;
+}
+.mthvrs8 {
+  width: 66.666666%;
+}
+.mthvrs9 {
+  width: 75%;
+}
+.mthvrs10 {
+  width: 83.333333%;
+}
+.mthvrs11 {
+  width: 91.666666%;
+}
+.mthvrs12 {
+  width: 100%;
+}
+.mthvrsp0 {
+  margin-left: 0;
+}
+.mthvrsp1 {
+  margin-left: 8.333333%;
+}
+.mthvrsp2 {
+  margin-left: 16.666666%;
+}
+.mthvrsp3 {
+  margin-left: 25%;
+}
+.mthvrsp4 {
+  margin-left: 33.333333%;
+}
+.mthvrsp5 {
+  margin-left: 41.666666%;
+}
+.mthvrsp6 {
+  margin-left: 50%;
+}
+.mthvrsp7 {
+  margin-left: 58.333333%;
+}
+.mthvrsp8 {
+  margin-left: 66.666666%;
+}
+.mthvrsp9 {
+  margin-left: 75%;
+}
+.mthvrsp10 {
+  margin-left: 83.333333%;
+}
+.mthvrsp11 {
+  margin-left: 91.666666%;
+}
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: none;
+  width: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  font-family: 'Graphik';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4rem;
+  line-height: 6rem;
+  background-color: #FFF;
+  color: #000000;
+  -moz-font-feature-settings: "liga", "kern";
+  -moz-font-feature-settings: "liga=1, kern=1";
+  -ms-font-feature-settings: "liga", "kern";
+  -o-font-feature-settings: "liga", "kern";
+  -webkit-font-feature-settings: "liga", "kern";
+  font-feature-settings: "liga", "kern";
+  font-kerning: normal;
+  transition-duration: .5s;
+  transition-timing-function: ease-in-out;
+  transition-property: background-color;
+}
+body.blur {
+  background-color: #000000;
+  color: #FFF;
+}
+body.blur a {
+  color: #FFF;
+  border-bottom: .4rem solid #FFF;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0 0 0 0;
+  border-bottom: .4rem solid #ffffff;
+}
+a:hover {
+  color: #FF0032;
+  border-bottom-color: rgb(255, 255, 255);
+}
+a:active {
+  border-bottom: none;
+}
+h2,
+h1 {
+  font-weight: 800;
+  color: #FF0032;
+  display: inline;
+}
+h2 {
+  font-size: 4rem;
+  line-height: 6rem;
+}
+h1 {
+  font-size: 12rem;
+  line-height: 14rem;
+}
+.shift_bottom {
+  margin-bottom: -8rem;
+}
+path {
+  stroke: #000000;
+  stroke-width: 5px;
+  fill: none;
+}
+#symbol {
+  height: 12rem;
+  width: 12rem;
+  background-color: transparent;
+}
+#symbol_row {
+  line-height: 0;
+}
+.short {
+  line-height: 2rem;
+}
+p {
+  margin: 0 0 0 0;
+}
+.clear {
+  clear: both;
+}
+.fix {
+  position: fixed;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+::selection {
+  background: #FF0032;
+  color: #000000;
+}
+::-moz-selection {
+  background: #FF0032;
+  color: #000000;
+}
+.short {
+  transition-duration: .01s, 1s;
+  transition-delay: 2s, 2s;
+  transition-timing-function: cubic-bezier(.8,.02,.2,.99), cubic-bezier(.2,0,.21,.99);
+  transition-property: stroke-dashoffset, -webkit-transform;
+  stroke-dasharray: 41 41;
+  stroke-dashoffset: 41;
+  -webkit-transform-origin: 50px 50px;
+}
+.long {
+  transition-duration: .75s, 1s;
+  transition-delay: 1s, 1.5s;
+  transition-timing-function: cubic-bezier(.8,.02,.2,.99), cubic-bezier(.15,1.54,.35,1);
+  transition-property: stroke-dashoffset, -webkit-transform;
+  stroke-dasharray: 61 61;
+  stroke-dashoffset: 61;
+  -webkit-transform-origin: 50px 50px;
+}
+.from_ul {
+  -webkit-transform: translate(-7.07px,-7.07px);
+}
+.from_ur {
+  -webkit-transform: translate(7.07px,-7.07px);
+}
+.from_lr {
+  -webkit-transform: translate(7.07px,7.07px);
+}
+.from_ll {
+  -webkit-transform: translate(-7.07px,7.07px);
+}
+.cw {
+  -webkit-transform: rotate(45deg);
+}
+.ccw {
+  -webkit-transform: rotate(-45deg);
+}
+.ring {
+  stroke-dasharray: 236 236;
+  stroke-dashoffset: 236;
+  transition-duration: 1s;
+  transition-delay: 0s;
+  transition-timing-function: cubic-bezier(.8,.02,.2,.99);
+  -webkit-transform: rotate(180deg);
+  -webkit-transform-origin: 50px 50px;
+}
+.go path {
+  stroke-dashoffset: 0;
+  -webkit-transform: rotate(0deg);
+}
+.mobile-only {
+  display: none;
+}
+.mthvrsgrid {
+  padding-top: 8rem;
+  padding-bottom: 4rem;
+}
+.mthvrs1,
+.mthvrs2,
+.mthvrs3,
+.mthvrs4,
+.mthvrs5,
+.mthvrs6,
+.mthvrs7,
+.mthvrs8,
+.mthvrs9,
+.mthvrs10,
+.mthvrs11,
+.mthvrs12 {
+  text-align: center;
+}
+#bg {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+.new_row {
+  margin-top: 0px;
+  margin-bottom: 8rem;
+}
+@media only screen and (max-width: 1024px) {
+  html {
+    -webkit-text-size-adjust: none;
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  html {
+    -webkit-text-size-adjust: none;
+    font-size: 11px;
+  }
+  .mthvrsgrid {
+    width: 100%;
+  }
+  .mobile-only {
+    display: inline;
+  }
+  .desktop-only {
+    display: none;
+  }
+  .mthvrs1,
+  .mthvrs2,
+  .mthvrs3,
+  .mthvrs4,
+  .mthvrs5,
+  .mthvrs6,
+  .mthvrs7,
+  .mthvrs8,
+  .mthvrs9,
+  .mthvrs10,
+  .mthvrs11,
+  .mthvrs12 {
+    width: 100%;
+  }
+  .mthvrsp1,
+  .mthvrsp2,
+  .mthvrsp3,
+  .mthvrsp4,
+  .mthvrsp5,
+  .mthvrsp6,
+  .mthvrsp7,
+  .mthvrsp8,
+  .mthvrsp9,
+  .mthvrsp10,
+  .mthvrsp11,
+  .mthvrsp12 {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 480px) {
+  html {
+    -webkit-text-size-adjust: none;
+    font-size: 6px;
+    width: 100%;
+  }
+  body {
+    font-size: 4rem;
+    line-height: 6rem;
+  }
+  #symbol {
+    height: 16rem;
+    width: 16rem;
+  }
+  .new_row {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+  h1 {
+    font-size: 12rem;
+    line-height: 14rem;
+  }
+  h2 {
+    font-size: 8rem;
+    line-height: 10rem;
+  }
+  .mthvrsgrid {
+    text-align: center;
+    width: 100%;
+  }
+  .mobile-only {
+    display: inline;
+  }
+  .desktop-only {
+    display: none;
+  }
+  .mthvrs1,
+  .mthvrs2,
+  .mthvrs3,
+  .mthvrs4,
+  .mthvrs5,
+  .mthvrs6,
+  .mthvrs7,
+  .mthvrs8,
+  .mthvrs9,
+  .mthvrs10,
+  .mthvrs11,
+  .mthvrs12 {
+    width: 100%;
+  }
+  .mthvrsp1,
+  .mthvrsp2,
+  .mthvrsp3,
+  .mthvrsp4,
+  .mthvrsp5,
+  .mthvrsp6,
+  .mthvrsp7,
+  .mthvrsp8,
+  .mthvrsp9,
+  .mthvrsp10,
+  .mthvrsp11,
+  .mthvrsp12 {
+    margin-left: 0;
+  }
+}
+.gray {
+  background-color: rgba(0,0,0,0.1);
+}
+.baseline {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('img/gridline.svg');
+  width: 100%;
+  height: 1000%;
+}
+@font-face {
+  font-family: 'Graphik';
+  src: url('./fonts/Commercial_Graphik/Graphik-Medium-Web-mthvrs.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'Graphik';
+  src: url('./fonts/Commercial_Graphik/Graphik-Black-Web-mthvrs.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+}
+		</style>
+
+	</head>
+	<body>
+
+		
+		<div class="mthvrsgrid" itemscope="" itemtype="http://schema.org/Person">
+			
+			<div class="mthvrs8 mthvrsp2 new_row" id="symbol_row">
+				<svg version="1.1" id="symbol" class="symbol" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80px" height="80px" viewBox="5 5 90 90" enable-background="new 0 0 100 100" xml:space="preserve">
+					<path class="animate_svg ring" d="M50,87.5c-10.017,0-19.434-3.9-26.516-10.983 C16.401,69.434,12.5,60.018,12.5,50.001c0-20.678,16.822-37.5,37.498-37.5c10.017,0,19.435,3.9,26.518,10.983
+		C83.6,30.566,87.5,39.983,87.5,49.999C87.5,70.677,70.678,87.5,50,87.5z"></path>
+
+	<!-- UL -->	<path class="animate_svg short from_lr " d="M 28.788 57.071 L 57.074 28.786"></path>
+	<!-- UR -->	<path class="animate_svg short from_ll " d="M 42.929 28.786 L 71.215 57.071"></path>	
+	<!-- LR -->	<path class="animate_svg short from_ul " d="M 71.213 42.928 L 42.931 71.213"></path>
+	<!-- LL -->	<path class="animate_svg short from_ur " d="M 57.072 71.213 L 28.788 42.927"></path>
+		
+					<path class="animate_svg long ccw" d="M 28.786 71.213 L 71.214 28.785"></path>
+					<path class="animate_svg long cw" d="M 71.214 71.212 L 28.787 28.786"></path>
+				</svg>
+			</div>
+			
+			<div class="mthvrs12 mthvrsp0 new_row">
+				<h1><span itemprop="givenName" class="mthvrs_title">Mathis</span> <span itemprop="familyName">Ivars</span></h1>
+			</div>
+
+			<div class="mthvrs10 mthvrsp1 new_row">
+				Etudiant en Arts du Spectacle à l'université de Rennes 2. Photo, vidéo, communication.
+			</div>
+
+			<div class="mthvrs10 mthvrsp1 new_row">
+        <a href="https://instagram.com/mthv.rs">
+        <h2>@mthv.rs</h2>
+        </a>
+			</div>
+
+		<script type="text/javascript">
+			window.onload = function(){
+				window.setTimeout(function(){
+					document.body.className += ' go';
+					var anim = document.getElementsByClassName('animate');
+					for(var i=0; i<anim.length; i +=1) {
+						anim[i].className += ' go';
+					}
+					
+					var anim = document.getElementById('symbol');
+					anim.className = 'go';
+				}, 10);
+			}
+		</script>
+		<script src="./Graham Hicks_files/saved_resource" type="text/javascript"></script>
+
+	
+</div></body></html>

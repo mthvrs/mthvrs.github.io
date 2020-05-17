@@ -5,4 +5,4 @@ url: "https://mthvrs.github.io"
 description: Personal website hosted @ mthv.rs via Github Pages!
 highlighter: rouge
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman

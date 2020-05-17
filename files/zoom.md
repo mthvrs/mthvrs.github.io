@@ -1,3 +1,10 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Mathis Ivars</title>
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="Mathis Ivars. Photo, vidéo, communication.">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 ## 1. Préambule
 
 **Ce document n'a pas été rédigé par un professionnel**; tout ce qui figure ici est basé sur des connaissances personnelles et des sources fiables consultables à la fin de ce document. Nombreuses de celles-ci sont rédigées en anglais. Comme je l'ai déjà dit, je ne suis pas un professionnel, que ce soit en termes de sécurité numérique ou d'écriture journalistique. Néanmoins, je suis convaincu que ce que j'ai écrit est fiable et mérite d'être considéré comme un "article d'opinion" sérieux. 

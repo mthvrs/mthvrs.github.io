@@ -24,7 +24,7 @@
 
 ## 2. Arguments à l'encontre de Zoom, WhatsApp, et autres.
 
-**Introduction |** WhatsApp et Zoom ne doivent pas être utilisés dans un cadre professionnel: ils (ainsi que de nombreuses autres applications du genre) ne sont pas dignes de confiance et présentent de nombreux problèmes de sécurité.
+<b>Introduction |</b> WhatsApp et Zoom ne doivent pas être utilisés dans un cadre professionnel: ils (ainsi que de nombreuses autres applications du genre) ne sont pas dignes de confiance et présentent de nombreux problèmes de sécurité.
 
 Si les applications les plus populaires (et par coïncidence les plus problématiques) sont de loin Zoom & WhatsApp (et je les traiterai plus en détail ci-dessous), il existe bien évidemment de nombreux autres services de télécommunications/vidéoconférences. Je pense cependant que ces quelques divers exemples permettront de mettre en évidence l'absolue nécessité de ne pas faire confiance à ces plateformes à la fois sur la question de l'utilisation abusive des données collectées par la société mère, mais aussi quant à la facilité avec laquelle une entité étrangère pourrait avoir accès à ces données en raison de leur faible sécurité - et ce qu'il s'agisse d'un hacker isolé ou d'un État étranger. 
 
@@ -32,7 +32,7 @@ Est-il néanmoins possible de trouver une plateforme sûre et fiable ? Oui, mêm
 
 <br>
 
-**Zoom |** [Zoom Zoom Zoom](https://www.youtube.com/watch?v=bkr7JGSY_VI) [10], parlons-en. L'utilisation de [Zoom](https://en.wikipedia.org/wiki/Zoom_Video_Communications) [11] a considérablement augmenté ces dernières semaines en raison de la nécessité pour beaucoup de télétravailler et de participer à des visioconférences. En effet, la firme similarweb spécialisée dans l'analyse de l'utilisation des sites internet et plateformes estime que Zoom [connait une augmentation de son utilisation de plus de 650%](https://www.similarweb.com/fr/website/zoom.us#overview) [12] depuis Mars.
+<b>Zoom |</b> [Zoom Zoom Zoom](https://www.youtube.com/watch?v=bkr7JGSY_VI) [10], parlons-en. L'utilisation de [Zoom](https://en.wikipedia.org/wiki/Zoom_Video_Communications) [11] a considérablement augmenté ces dernières semaines en raison de la nécessité pour beaucoup de télétravailler et de participer à des visioconférences. En effet, la firme similarweb spécialisée dans l'analyse de l'utilisation des sites internet et plateformes estime que Zoom [connait une augmentation de son utilisation de plus de 650%](https://www.similarweb.com/fr/website/zoom.us#overview) [12] depuis Mars.
 
 Zoom est une compagnie établie et existante depuis de nombreuses années puisque celle-ci édite la première version de son application en 2013. Peut-être alors pourrait-on supposer que celle-ci est plus fiable et moins sujette à des failles de sécurité grace à son ancienneté et donc son expérience? Détrompez-vous. [Les problèmes sont nombreux au sein de Zoom](https://www.theguardian.com/technology/2020/apr/02/zoom-technology-security-coronavirus-video-conferencing) [13], tant en ce qui concerne le respect de la vie privée que les questions de sécurité.
 
@@ -80,7 +80,7 @@ Pour conclure avec Zoom, je pense qu'il est également intéressant de noter que
 
 <br>
 
-**WhatsApp |** En ce qui concerne le respect de la vie privée ou la sécurité des utilisateurs, Facebook est une déchetterie et WhatsApp en est le déchet cardinal (*sic*). Si Zoom semble souffrir de nombreux défauts de sécurité, ce n'est rien par rapport à WhatsApp. Afin d'éviter d'alourdir ce papier inutilement nous allons passer outre les chefs d'accusation contre Facebook si nombreux qu'ils méritent à eux-seuls [leur propre article Wikipédia](https://en.wikipedia.org/wiki/Criticism_of_Facebook) [1,2], mais ne les oublions surtout pas pour autant. 
+<b>WhatsApp |</b> En ce qui concerne le respect de la vie privée ou la sécurité des utilisateurs, Facebook est une déchetterie et WhatsApp en est le déchet cardinal (*sic*). Si Zoom semble souffrir de nombreux défauts de sécurité, ce n'est rien par rapport à WhatsApp. Afin d'éviter d'alourdir ce papier inutilement nous allons passer outre les chefs d'accusation contre Facebook si nombreux qu'ils méritent à eux-seuls [leur propre article Wikipédia](https://en.wikipedia.org/wiki/Criticism_of_Facebook) [1,2], mais ne les oublions surtout pas pour autant. 
 
 En effet, WhatsApp est un produit de Facebook et il est de loin son produit le moins bien sécurisé. Car le sujet a déjà été traité de manière assez extensive et honnête par Pavel Durov, PDG de Telegram (dont nous parlerons à nouveau dans quelques instants) ce que vous vous apprêtez à lire est une retraduction de cet article issu de son blog personnel: "[Why Using WhatsApp Is Dangerous](https://telegra.ph/Why-Using-WhatsApp-Is-Dangerous-01-30-4)" [38]. Veuillez noter que celui-ci a été publié le 30 Janvier 2020 mais reste d'actualité.
 
@@ -112,7 +112,7 @@ Me voici de nouveau à la barre. Tout ce que Pavel Durov a souligné dans son bi
 
 <br>
 
-**Conclusion |** Il me semble évident à ce stade de conclure que WhatsApp ou Zoom ne sont pas des choix raisonnables pour une communication sécurisée dans un cadre professionnel. 
+<b>Conclusion |</b> Il me semble évident à ce stade de conclure que WhatsApp ou Zoom ne sont pas des choix raisonnables pour une communication sécurisée dans un cadre professionnel. 
 
 De manière plus générale, la conclusion empruntée au NYMag que je citais plus haut pour Zoom s'applique aussi à WhatsApp et à tout autre service de téléconférence de manière générale. Je la cite à nouveau ici (toujours traduite de l'anglais):
 

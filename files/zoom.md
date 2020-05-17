@@ -1,5 +1,4 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Mathis Ivars</title>
 		<meta name="viewport" content="width=device-width">
 		<meta name="description" content="Mathis Ivars. Photo, vidéo, communication.">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">

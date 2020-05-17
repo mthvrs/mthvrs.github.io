@@ -1,1 +1,6 @@
-markdown: GFM
+#Website Config
+markdown: kramdown
+name: Mathis Ivars
+url: "https://mthvrs.github.io"
+description: Personal website hosted @ mthv.rs via Github Pages!
+highlighter: rouge

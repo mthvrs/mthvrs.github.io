@@ -2,7 +2,7 @@
 1. [Volaille](#volaille)
 	1. [Poulet du général Tao](#poulet-du-gnral-tao)
 2. [Autres](#autres)
-	1. Hamburger 
+	1. [Hamburger](#hambourgeois-burger-franais)
 
 ## Volaille
 

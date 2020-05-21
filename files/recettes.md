@@ -6,7 +6,7 @@
 
 ## Volaille
 
-#### Poulet du général Tao
+### Poulet du général Tao
 
 **Ingrédients**
 

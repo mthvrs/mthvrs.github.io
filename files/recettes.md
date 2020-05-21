@@ -1,8 +1,9 @@
 ## Table des matières
 1. [Volaille](#volaille)
 	1. [Poulet du général Tao](#poulet-du-gnral-tao)
+	2. [Nuggets Cornflakes](#nuggets-cornflakes)
 2. [Autres](#autres)
-	1. [Hamburger](#hambourgeois-burger-franais)
+	1. [Hambourgeois](#hambourgeois-burger-franais)
 
 <br>
 
@@ -57,7 +58,7 @@
 
 <br>
 
-### Nuggets Corn-flakes 
+### Nuggets Cornflakes 
 
 *Recette pour 2 personnes; ~2 heures.*
 

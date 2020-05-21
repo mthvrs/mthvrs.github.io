@@ -1,7 +1,6 @@
 ## Table des matières
-1. Volaille 
-	1. Poulet du général Tao
-2. Poisson
+1. [Volaille](#volaille)
+	1. [Poulet du général Tao](#poulet-du-gnral-tao)
 
 
 ## Volaille

@@ -1,8 +1,11 @@
 ## Table des matières
 1. [Volaille](#volaille)
 	1. [Poulet du général Tao](#poulet-du-gnral-tao)
+	2. [Nuggets Cornflakes](#nuggets-cornflakes)
 2. [Autres](#autres)
 	1. [Hambourgeois](#hambourgeois-burger-franais)
+	2. [Véritables Oeufs Brouillés](vritables-oeufs-brouills)
+	2. [Idées sans recettes](#ides-sans-recettes)
 
 <br>
 
@@ -58,7 +61,7 @@
 
 <br>
 
-### Nuggets Corn-flakes 
+### Nuggets Cornflakes 
 
 *Recette pour 2 personnes; ~2 heures.*
 
@@ -121,3 +124,37 @@
 > Servir avec des frites ou une fondue de poireaux? 
 >
 > Alternative intéressante: cheddar & gorgonzola + mayonnaise aux herbes 
+
+
+<br>
+
+### Véritables Oeufs Brouillés
+
+*Reccete pour 1 personne; ~10 min.*
+
+**Ingrédients**
+
+> * 3 gros œufs
+> * 2 cuillères à soupe de beurre
+> * sel au goût
+> * poivre au goût
+> * ciboulette au goût
+
+**Recette**
+> Cassez trois gros œufs dans un bol et battez-les bien. Ensuite, passez vos œufs dans une passoire à mailles fines et mettez-les dans un autre bol (cela aidera les œufs à devenir plus soyeux et plus crémeux). Poussez les œufs à travers avec le dos d'une cuillère jusqu'à ce que tous les œufs aient été passés au tamis.
+> 
+> Préparez deux cuillères à soupe de beurre et commencez à chauffer votre poêle à feu moyen. Ajoutez vos œufs dans la poêle avant qu'elle ne devienne trop chaude (vous ne voulez pas entendre les œufs grésiller). Ajoutez vos deux cuillères à soupe de beurre et remuez les œufs et le beurre en petits cercles à l'aide d'une spatule. À ce stade, il est bon de commencer à faire griller une tranche de votre pain préféré. Continuez à remuer les œufs et le beurre jusqu'à ce que de petits caillés commencent à se former (ou que les œufs semblent commencer à prendre) et que les œufs semblent réduits.
+> 
+> Lorsque les œufs commencent à se boucler, alternez la poêle sur le feu et sans pour contrôler la température afin que les œufs ne cuisent pas trop vite ou ne soient pas trop cuits. Lorsque les œufs ont pris et qu'ils sont encore humides, retirez-les du feu et ajoutez du sel et du poivre. Posez vos œufs sur vos toasts et hachez la ciboulette que vous avez pour la garniture. 
+
+
+
+<br>
+
+### Idées sans recette
+
+* Tourte au saumon
+* Quiche saumon/épinards
+* Galettes sarasin au jambon
+
+

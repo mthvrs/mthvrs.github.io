@@ -1,16 +1,14 @@
 ## Table des matières
 1. [Volaille](#volaille)
 	1. [Poulet du général Tao](#poulet-du-gnral-tao)
-	2. [Nuggets Cornflakes](#nuggets-cornflakes)
 2. [Autres](#autres)
-	1. [Hambourgeois](#hambourgeois-burger-franais)
+	1. [Hamburger](#hambourgeois-burger-franais)
 
 <br>
 
 <br>
 
 <br>
-
 ## Volaille
 
 ### Poulet du général Tao 
@@ -59,7 +57,7 @@
 
 <br>
 
-### Nuggets Cornflakes 
+### Nuggets Corn-flakes 
 
 *Recette pour 2 personnes; ~2 heures.*
 
@@ -119,5 +117,6 @@
 
 **Notes**
 
-> Peut-être interessant de servir avec des frites ou une fondue de poireaux? 
-
+> Servir avec des frites ou une fondue de poireaux? 
+>
+> Alternative intéressante: cheddar & gorgonzola + mayonnaise aux herbes 

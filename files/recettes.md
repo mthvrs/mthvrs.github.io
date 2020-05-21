@@ -4,14 +4,21 @@
 2. [Autres](#autres)
 	1. [Hamburger](#hambourgeois-burger-franais)
 
+<br>
+
+<br>
+
+<br>
 ## Volaille
 
-### Poulet du général Tao
+### Poulet du général Tao 
+
+*Recette pour 4 personnes; ~30 min.*
 
 **Ingrédients**
 
 > Pour la viande :
-> * cuisses de poulet coupées en cubes de 3cm*3cm
+> * 1 livre de cuisses de poulet coupées en cubes de 3cm*3cm
 > * 1/4 de tasse de fécule de maïs
 > * huile pour la friture
 > * 1 cuillère à soupe de gingembre haché
@@ -48,11 +55,50 @@
 >
 > Meilleur servi avec du riz. Faire plus de sauce (doubler/tripler les ingrédients) si vous voulez pouvoir en servir avec le riz.
 
+<br>
 
+### Nuggets Corn-flakes 
+
+*Recette pour 2 personnes; ~2 heures.*
+
+**Ingrédients**
+
+> * 2 escalopes de poulet
+> * 1 cuillère à café d’épices à tandoori massala
+> * 1 cuillère à café de moutarde forte
+> * 1 cuillère à café d’huile d'olive
+> * Sel, poivre
+> * Farine
+> * 1 œuf
+> *  5 poignées de corn-flakes non sucrés
+
+**Recette**
+
+> Couper les escalopes de poulet en gros dés et les placer dans un saladier avec les épices, la moutarde et l'huile. Saler, poivrer et mélanger.
+> 
+> Laisser mariner au réfrigérateur pendant une heure. Réduire les corn-flakes en chapelure pas trop fine à l’aide d’un mixer ou d’un rouleau à pâtisserie.
+> 
+> Sortir le poulet du frigo et enrober chaque morceau de farine, puis les plonger dans l’œuf battu et enfin dans les corn-flakes. Disposer au fur et à mesure sur une assiette ou un plateau.
+> 
+> Laisser reposer 30 minutes au frais.
+>
+> Enfourner les nuggets à 180°c pendant 12 minutes. Servir chaud.
+
+**Notes**
+
+> À servir avec diverses sauces: BBQ, Ketchup, Fromagère, ... 
+
+<br>
+
+<br>
+
+<br>
 
 ## Autres
 
 ### Hambourgeois (Burger Français) 
+
+*Recette pour 1 personne; ~30 min.*
 
 **Ingrédients**
 

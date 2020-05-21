@@ -160,4 +160,6 @@
 * Saumon saumon saumon
 * Raviollis aux épinards et à la ricotta.
 * Salade tomate mozza
-
+* Quiche (dés de jambon)
+* Avocathon
+* Steaks Hachés + Haricots Verts + Sauce Poivre

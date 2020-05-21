@@ -5,7 +5,7 @@
 2. [Autres](#autres)
 	1. [Hambourgeois](#hambourgeois-burger-franais)
 	2. [Véritables Oeufs Brouillés](#vritables-oeufs-brouills)
-	2. [Idées sans recettes](#ides-sans-recettes)
+	2. [Idées sans recettes](#idées-sans-recette)
 
 <br>
 

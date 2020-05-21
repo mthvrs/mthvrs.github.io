@@ -156,5 +156,8 @@
 * Tourte au saumon
 * Quiche saumon/épinards
 * Galettes sarasin au jambon
-
+* Pavés de saumon
+* Saumon saumon saumon
+* Raviollis aux épinards et à la ricotta.
+* Salade tomate mozza
 

@@ -1,7 +1,8 @@
 ## Table des matières
 1. [Volaille](#volaille)
 	1. [Poulet du général Tao](#poulet-du-gnral-tao)
-
+2. [Autres](#autres)
+	1. Hamburger 
 
 ## Volaille
 
@@ -46,4 +47,29 @@
 > Vous pouvez parsemer le poulet de graines de sésame.
 >
 > Meilleur servi avec du riz. Faire plus de sauce (doubler/tripler les ingrédients) si vous voulez pouvoir en servir avec le riz.
+
+
+
+## Autres
+
+### Hambourgeois (Burger Français) 
+
+**Ingrédients**
+
+> * Pains à hamburger type "bistrot"
+> * Fourme d'ambert
+> * Sauce miel-moutarde
+> * Steaks hachés (boeuf/veau)
+> * Oignons fondus 
+
+
+**Recette**
+
+> Faire le burger.
+> 
+> Félicitations, c'est prêt.
+
+**Notes**
+
+> Peut-être interessant de servir avec des frites ou une fondue de poireaux? 
 
